@@ -7,16 +7,19 @@ in the .venv directory, you will find the two .py files.  these are the main met
 
 ### Class and constructor ###
 In python, the class constructor is going to be written as an __init__(self): function.  Then we add a array_type which lets us pick what kinds of variables can be stored in the array.
+
 <img width="369" alt="image" src="https://github.com/Dunfiena/Data_Structures-Assignment_1/assets/117761149/445ee7f6-dc55-4ec6-8317-50008ef3d63e">
 
 
 ### Append & Prepend ###
 Failry self-explanatory append and insert at index 0
+
 <img width="263" alt="image" src="https://github.com/Dunfiena/Data_Structures-Assignment_1/assets/117761149/8189f47f-f00b-4319-a100-1b8e23d9a179">
 
 
 ### Print Size, print contents ###
 For getting the size of an array in python, we can use the len(x) function
+
 <img width="198" alt="image" src="https://github.com/Dunfiena/Data_Structures-Assignment_1/assets/117761149/1c2a4301-46e6-4644-850c-882a7f1e561e">
 <img width="216" alt="image" src="https://github.com/Dunfiena/Data_Structures-Assignment_1/assets/117761149/ec83883f-df4e-4a10-8957-31bb30975047">
 
@@ -29,6 +32,7 @@ Python has an interesting aspect that I haven't seen in other languages, where t
 
 ### Pop ###
 Set the last value = to pop gets rid of the last value
+
 <img width="353" alt="image" src="https://github.com/Dunfiena/Data_Structures-Assignment_1/assets/117761149/aeb6d0bf-1956-4c6b-9b2a-4ae2e7c46f4d">
 
 
@@ -39,10 +43,12 @@ The index is also interresting for the ability to return two values, which I'll 
 2) is the value of the node in the array.
 
 After this we return both the item and the index
+
 <img width="313" alt="image" src="https://github.com/Dunfiena/Data_Structures-Assignment_1/assets/117761149/7286d5d7-a374-40bf-a61d-7239907ac684">
 
 ### main.py ###
 The main function in python is written as if __name__ = '__main__':
+
 <img width="316" alt="image" src="https://github.com/Dunfiena/Data_Structures-Assignment_1/assets/117761149/46cb8861-a5b6-4957-9ac2-86007959831a">
 
 ### Each kind of function implemented ###
