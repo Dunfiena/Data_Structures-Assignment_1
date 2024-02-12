@@ -52,10 +52,9 @@ The main function in python is written as if __name__ = '__main__':
 <img width="316" alt="image" src="https://github.com/Dunfiena/Data_Structures-Assignment_1/assets/117761149/46cb8861-a5b6-4957-9ac2-86007959831a">
 
 ### Each kind of function implemented ###
-code:
-<img width="379" alt="image" src="https://github.com/Dunfiena/Data_Structures-Assignment_1/assets/117761149/ab31a31c-b65b-4d9f-881b-719a46a54186">
+code:                    Result:
 
-Result:
+<img width="379" alt="image" src="https://github.com/Dunfiena/Data_Structures-Assignment_1/assets/117761149/ab31a31c-b65b-4d9f-881b-719a46a54186">
 <img width="218" alt="image" src="https://github.com/Dunfiena/Data_Structures-Assignment_1/assets/117761149/f452b78e-6f09-409d-988c-03cbb68a7fe6">
 
 code:
