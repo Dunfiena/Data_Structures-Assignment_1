@@ -52,57 +52,52 @@ The main function in python is written as if __name__ = '__main__':
 <img width="316" alt="image" src="https://github.com/Dunfiena/Data_Structures-Assignment_1/assets/117761149/46cb8861-a5b6-4957-9ac2-86007959831a">
 
 ### Each kind of function implemented ###
-code:                    Result:
+________________________________________________________________________________
 
 <img width="379" alt="image" src="https://github.com/Dunfiena/Data_Structures-Assignment_1/assets/117761149/ab31a31c-b65b-4d9f-881b-719a46a54186">
 <img width="218" alt="image" src="https://github.com/Dunfiena/Data_Structures-Assignment_1/assets/117761149/f452b78e-6f09-409d-988c-03cbb68a7fe6">
 
-code:
-<img width="379" alt="image" src="https://github.com/Dunfiena/Data_Structures-Assignment_1/assets/117761149/b03b2f24-45e4-4d70-b483-6f3e22ec6aa1">
+________________________________________________________________________________
 
-Result:
+
+<img width="379" alt="image" src="https://github.com/Dunfiena/Data_Structures-Assignment_1/assets/117761149/b03b2f24-45e4-4d70-b483-6f3e22ec6aa1">
 <img width="218" alt="image" src="https://github.com/Dunfiena/Data_Structures-Assignment_1/assets/117761149/d526e3a4-26ae-4d20-b608-290e69847937">
 
-code:
-<img width="381" alt="image" src="https://github.com/Dunfiena/Data_Structures-Assignment_1/assets/117761149/29a411d1-e3fd-4246-b5e7-67367c79576a">
+________________________________________________________________________________
 
-Result:
+<img width="381" alt="image" src="https://github.com/Dunfiena/Data_Structures-Assignment_1/assets/117761149/29a411d1-e3fd-4246-b5e7-67367c79576a">
 <img width="213" alt="image" src="https://github.com/Dunfiena/Data_Structures-Assignment_1/assets/117761149/db718d62-6112-4317-a45e-9c6a9e55d7f9">
 
-Code:
-<img width="368" alt="image" src="https://github.com/Dunfiena/Data_Structures-Assignment_1/assets/117761149/b38d0785-345c-48e8-8e40-bfb412c38312">
+________________________________________________________________________________
 
-Result:
+<img width="368" alt="image" src="https://github.com/Dunfiena/Data_Structures-Assignment_1/assets/117761149/b38d0785-345c-48e8-8e40-bfb412c38312">
 <img width="219" alt="image" src="https://github.com/Dunfiena/Data_Structures-Assignment_1/assets/117761149/528c8f1c-4bcb-4ba0-acd2-7068eed5e2ef">
 
-Code:
+________________________________________________________________________________
+
 <img width="372" alt="image" src="https://github.com/Dunfiena/Data_Structures-Assignment_1/assets/117761149/455eb224-ad0e-49be-be1d-e8aa97aaa865">
 
-Result:
 <img width="210" alt="image" src="https://github.com/Dunfiena/Data_Structures-Assignment_1/assets/117761149/aee18682-47a0-4ffb-9177-37090733c316">
 
-Code:
-<img width="363" alt="image" src="https://github.com/Dunfiena/Data_Structures-Assignment_1/assets/117761149/b3ed4dd7-95df-468e-a06b-8676dd1bc012">
+________________________________________________________________________________
 
-Result:
+<img width="363" alt="image" src="https://github.com/Dunfiena/Data_Structures-Assignment_1/assets/117761149/b3ed4dd7-95df-468e-a06b-8676dd1bc012">
 <img width="217" alt="image" src="https://github.com/Dunfiena/Data_Structures-Assignment_1/assets/117761149/88f5d11d-2393-4ca6-aa11-f66de6a23b84">
 
-Code:
-<img width="374" alt="image" src="https://github.com/Dunfiena/Data_Structures-Assignment_1/assets/117761149/594bc5d2-d4ac-4197-a36a-bfd7324bcabb">
+________________________________________________________________________________
 
-Result:
+<img width="374" alt="image" src="https://github.com/Dunfiena/Data_Structures-Assignment_1/assets/117761149/594bc5d2-d4ac-4197-a36a-bfd7324bcabb">
 <img width="226" alt="image" src="https://github.com/Dunfiena/Data_Structures-Assignment_1/assets/117761149/cb5c3393-3d56-4b40-814b-0dba866033d8">
 
-Code:
-<img width="400" alt="image" src="https://github.com/Dunfiena/Data_Structures-Assignment_1/assets/117761149/1a7774af-8295-422b-b166-239aef4f006b">
+________________________________________________________________________________
 
-Result:
+<img width="400" alt="image" src="https://github.com/Dunfiena/Data_Structures-Assignment_1/assets/117761149/1a7774af-8295-422b-b166-239aef4f006b">
 <img width="229" alt="image" src="https://github.com/Dunfiena/Data_Structures-Assignment_1/assets/117761149/673a62cc-ebe8-4bc7-9b4c-c0e8ff5d9851">
 
-Code:
+________________________________________________________________________________
+
 <img width="427" alt="image" src="https://github.com/Dunfiena/Data_Structures-Assignment_1/assets/117761149/8c9f9a6e-3207-4e01-a224-2f86708e62e3">
 
-Result:
 <img width="246" alt="image" src="https://github.com/Dunfiena/Data_Structures-Assignment_1/assets/117761149/af1a339c-0c8a-454d-beaf-d05f3dbd30f3">
 
 
